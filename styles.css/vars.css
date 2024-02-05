@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;600;700&display=swap');
+
+
+:root{
+    
+    /* fonte */
+    --fonte-principal: "Dosis", sans-serif;
+    
+    /* cores */
+
+    --preto-fundo: #000000;
+    --branco:#fff;
+    --cinza:#878787;
+    --cinza-header: #a7a7a7;
+    --preto-sidebar: #222020;
+    --preto-playlist: #141010;
+    --degrade: linear-gradient(90deg, rgba(80,191,213,1) 0%, rgba(128,113,203,1) 50%, rgba(194,64,180,1) 100%);
+    --bg-icon: #131313;
+    --bg-arrow: rgba(0,0,07)
+    --verde: #1db954;
+}
